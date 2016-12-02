@@ -18,6 +18,6 @@ Once loaded into your database all of the default configuration can be changed i
 ####Comment types
 Review
 
-###Dependencies
+####Dependencies
 Drupal core, voting API, voting API widgets.
 
